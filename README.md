@@ -2,7 +2,7 @@
 
 This is the dataset used in the following project: https://github.com/AlbertMitjans/chord-detection
 
-Find bellow the structure of the dataset:
+#### Find bellow the structure of the dataset:
 
 - **0:** contains 180 jpg images downloaded from Google and 3 csv files for each image with annotations of the coordinates of every visible finger, fret and string.
 - **1:** contains 208 images taken with a Nikon camera, 4 csv files with annotations of the coordinates of every visible finger, fret and string and the location of the left hand.

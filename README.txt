@@ -1,4 +1,4 @@
-UCCS-UB-guitar_dataset:
+#UCCS-UB-guitar_dataset:
 
 This is the dataset used in the following project: https://github.com/AlbertMitjans/chord-detection
 

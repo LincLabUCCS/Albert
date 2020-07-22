@@ -10,5 +10,5 @@ Find bellow the structure of the dataset:
 - **videos:** folder containing 21 different videos of three different people playing the guitar.
 - **train.txt:** contains the path of 80% of the images of the aforementioned folders.
 - **val.txt:** contains the path of the remaining 20% of the images of the aforementioned folders.
-- **labels:** contains a list with the chords of the images in both folder. The first column determines whether the label is from folder 0 or 1.
+- **labels:** contains a list with the chords of the images in all folders. The first column determines whether the label is from folder 0, 1 or 2.
 - **tabs.xlsx:** contains the tablature of the 14 main guitar chords (C, Cm, D, Dm...).

@@ -2,6 +2,8 @@
 
 This is the dataset used in the following project: https://github.com/AlbertMitjans/chord-detection
 
+If interested in reading the paper please send an email to: a.mitjanscoma@gmail.com 
+
 #### Find bellow the structure of the dataset:
 
 - **0:** contains 180 jpg images downloaded from Google and 3 csv files for each image with annotations of the coordinates of every visible finger, fret and string.
